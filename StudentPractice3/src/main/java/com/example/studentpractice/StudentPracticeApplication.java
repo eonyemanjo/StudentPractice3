@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 import java.util.Date;
-
+// not
 // Annotation to mark this class as a Spring Boot application
 @SpringBootApplication
 public class StudentPracticeApplication {
